@@ -1,4 +1,4 @@
-## Hi, I’m @GenesisLista a IT Manager / Software Developer here in Riyadh, Saudi Arabia.
+## Hi, I’m @GenesisLista and I am Software Developer. I'm from Philippines currently and working in Riyadh, Saudi Arabia.
 
 ### Some of the works that I have done using Core PHP are:
 
