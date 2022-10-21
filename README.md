@@ -1,4 +1,4 @@
-## Hi, I’m @GenesisLista and I am Software Developer. I'm from Philippines currently and working in Riyadh, Saudi Arabia.
+## Hi, I’m @GenesisLista and I am Software Developer. I'm from Philippines.
 
 ### Some of the works that I have done using Core PHP are:
 
