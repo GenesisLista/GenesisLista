@@ -12,8 +12,6 @@
 - Tender Management System
 - Esaal Management System
 
-### I have started working on Laravel Framework and plan to redo my Core PHP project to Laravel.
-
 <!---
 GenesisLista/GenesisLista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
