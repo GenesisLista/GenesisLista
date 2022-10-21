@@ -7,6 +7,11 @@
 - Document Management System
 - Order Management System
 
+### Some of the works that I have done using Laravel Framework are:
+
+- Tender Management System
+- Esaal Management System
+
 ### I have started working on Laravel Framework and plan to redo my Core PHP project to Laravel.
 
 <!---
